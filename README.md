@@ -1,0 +1,2 @@
+# optimal-page-replacement-algorithm-
+Optimal page replacement algorithm in java  , The theoretically optimal page replacement algorithm (also known as OPT, clairvoyant replacement algorithm, or Bélády's optimal page replacement policy) is an algorithm that works as follows: when a page needs to be swapped in, the operating system swaps out the page whose next use will occur farthest in the future.
